@@ -9,7 +9,7 @@
 Saya seorang **mahasiswa Sistem Informasi** yang bersemangat dalam menulis kode, memecahkan masalah, mengotomatiskan berbagai hal, dan membangun perangkat lunak.
 
 - 🔭 Saat ini saya adalah mahasiswa **Sistem Informasi** di **Universitas Islam Negeri Alauddin Makassar**.
-- 📚 Saya sedang mempelajari jalur “Front-End Web & Back-End with AI”.
+- 📚 Saya sedang mempelajari “Front-End Web & Back-End with AI”.
 
 ---
 
