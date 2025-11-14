@@ -7,7 +7,6 @@
 <div align="center">
   <img alt="Retro Coding Desk GIF" src="https://user-images.githubusercontent.com/4962208/113303102-f80a0080-92e1-11eb-874e-8b1d0d46e3c9.gif" width="500"/>
 </div>
-<br>
 
 I am an **Information Systems student** who is passionate about writing code, solving problems, automating things, and building software.
 
