@@ -4,7 +4,7 @@
 
 </div>
 
-<img align="right" alt="Uma Musume Pixel GIF" src="https://media.tenor.com/JpT-hB-m-3sAAAAC/uma-musume-pixel.gif" width="400"/>
+<img align="right" alt="Pixel Art Desk GIF" src="https://media.tenor.com/F-M-dK0SgNcAAAAC/lofi-pixel.gif" width="400"/>
 
 Saya seorang **mahasiswa Sistem Informasi** yang bersemangat dalam menulis kode, memecahkan masalah, mengotomatiskan berbagai hal, dan membangun perangkat lunak.
 
