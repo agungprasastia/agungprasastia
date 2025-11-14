@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Agung+Prasasti+Abadi+%3C+%2F+%3E" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Agung+Prasasti+Abadi+%3C+%2F+%3E" alt="Typing SVG" />
   </a>
 </p>
 
 <div align="center">
-  <img alt="Pixel Art Coding GIF" src="https://media.giphy.com/media/LmNwrBhejkK9xfsK52/giphy.gif" width="400"/>
+  <img alt="Lofi Study Space GIF" src="https://user-images.githubusercontent.com/74038190/229237435-01e19483-fcf9-42b7-a36c-9c36829158fb.gif" width="400"/>
 </div>
 <br>
 
@@ -18,6 +18,7 @@ I am an **Information Systems student** who is passionate about writing code, so
 
 ### 🛠️ Tech Stack
 
+<p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </a>
@@ -30,9 +31,13 @@ I am an **Information Systems student** who is passionate about writing code, so
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
+</p>
+
 ---
 
 - 📫 How to reach me:
 
+<p>
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agungprasastia/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agungprasastia@gmail.com)
+</p>
