@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img alt="Pixel Art Gamer Room GIF" src="https://media.giphy.com/media/glvyCVWYJ21imSwG8F/giphy.gif" width="400"/>
+  <img alt="Pixel Art Coding GIF" src="https://media.giphy.com/media/LmNwrBhejkK9xfsK52/giphy.gif" width="400"/>
 </div>
 <br>
 
@@ -18,7 +18,6 @@ I am an **Information Systems student** who is passionate about writing code, so
 
 ### 🛠️ Tech Stack
 
-<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </a>
@@ -31,8 +30,6 @@ I am an **Information Systems student** who is passionate about writing code, so
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
-</p>
-
 ---
 
 - 📫 How to reach me:
