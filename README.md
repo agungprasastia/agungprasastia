@@ -4,7 +4,7 @@
 
 </div>
 
-<img align="right" alt="Pixel Art Desk GIF" src="https://media.giphy.com/media/g2jj9VAIBluIreVNsb/giphy.gif" width="400"/>
+<img align="right" alt="Pixel Art Gamer Room GIF" src="https://media.giphy.com/media/glvyCVWYJ21imSwG8F/giphy.gif" width="400"/>
 
 Saya seorang **mahasiswa Sistem Informasi** yang bersemangat dalam menulis kode, memecahkan masalah, mengotomatiskan berbagai hal, dan membangun perangkat lunak.
 
