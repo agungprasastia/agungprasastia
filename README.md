@@ -4,7 +4,7 @@
 
 </div>
 
-<img align="right" alt="Uma Musume Pixel GIF" src="https://media.giphy.com/media/v1.GIF/lQJjQ6rC04D8qDq3vK/giphy.gif" width="400"/>
+<img align="right" alt="Uma Musume Pixel GIF" src="https://media.tenor.com/JpT-hB-m-3sAAAAC/uma-musume-pixel.gif" width="400"/>
 
 Saya seorang **mahasiswa Sistem Informasi** yang bersemangat dalam menulis kode, memecahkan masalah, mengotomatiskan berbagai hal, dan membangun perangkat lunak.
 
@@ -35,4 +35,4 @@ Saya seorang **mahasiswa Sistem Informasi** yang bersemangat dalam menulis kode,
 - 📫 Hubungi saya di:
 
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agungprasastia/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:agungprasastia@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agungprasastia@gmail.com)
