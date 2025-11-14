@@ -37,7 +37,12 @@ I am an **Information Systems student** who is passionate about writing code, so
 
 - 📫 How to reach me:
 
+<h4>How to reach me:</h4>
 <p>
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agungprasastia/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agungprasastia@gmail.com)
+  <a href="https://www.instagram.com/agungprasantia/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:agungprasantia@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
