@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.tenor.com/tHqXjS1p4W0AAAAC/lofi-girl-lofi-hiphop.gif" width="400" alt="Lofi Study Space GIF"/>
+  <img alt="Retro Coding Desk GIF" src="https://user-images.githubusercontent.com/4962208/113303102-f80a0080-92e1-11eb-874e-8b1d0d46e3c9.gif" width="500"/>
 </div>
 <br>
 
