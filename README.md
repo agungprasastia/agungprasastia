@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img alt="Pixel Art Gamer Room GIF" src="https://raw.githubusercontent.com/agungprasastia/agungprasastia/main/gamer-room.gif" width="400"/>
+  <img alt="Lofi Study Space GIF" src="https://user-images.githubusercontent.com/74038190/229237435-01e19483-fcf9-42b7-a36c-9c36829158fb.gif" width="400"/>
 </div>
 <br>
 
