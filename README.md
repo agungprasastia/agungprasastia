@@ -28,4 +28,4 @@ I am an **Information Systems student** who is passionate about writing code, so
 ### 📫 How to reach me:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/agungprasastia/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agungprasantia@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agungprasastia@gmail.com)
