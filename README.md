@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ1MmJqcWI1Y2Z2d2xhMXF4dDU5ZzRtMzQ0czRiMzBkOHR1amw5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="500" alt="Anime Coding GIF"/>
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="500" alt="Coding GIF"/>
 </div>
 <br>
 
